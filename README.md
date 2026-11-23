@@ -4,7 +4,7 @@
 This repository contains solutions to five algorithmic challenges completed on HackerRank as part of the 3rd Semester Portfolio Building activity. The solutions are implemented in Python 3 and focus on algorithmic problem-solving, arrays, strings and efficient data handling.
 
 ## HackerRank Profile
-- **Profile:** [Add your HackerRank profile link here](https://www.hackerrank.com/)
+- **Profile:** (https://www.hackerrank.com/profile/sdombarkoppa)
 
 ## Problems Solved
 
